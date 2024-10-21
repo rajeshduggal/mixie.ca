@@ -31,6 +31,7 @@
 # hugo mod init // and follow additional theme module instructions.
 #
 # cp -R themes/hugo-book/exampleSite/content.en/* ./content
+# Create a file ./content/CNAME containing the domain name.
 #
 # Modify the config.toml configuration file to fit your site.
 # Test the site ../bin/hugo server -D
