@@ -1,7 +1,88 @@
-baseURL = 'https://rajduggal.com/'
+baseURL = 'https://RajDuggal.com/'
 languageCode = 'en-us'
-title = 'Raj Duggal - Agile Software Development'
+title = 'Raj Duggal'
 
 [module]
 [[module.imports]]
     path = 'github.com/adityatelange/hugo-PaperMod'
+
+paginate = 5
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+mainsections = [ "posts", "papermod" ]
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+  [languages.en.taxonomies]
+  tag = "tags"
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Articles"
+url = "articles/"
+weight = 5
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = "Raj Duggal coaches software building teams on how to deliver the most prized software features with the lowest budget risks"
+author = "Raj Duggal"
+social = true
+defaultTheme = "auto"
+ShowShareButtons = false
+ShowReadingTime = false
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowToc = false
+images = [ "images/papermod-cover.png" ]
+hideMeta = true
+
+  [params.profileMode]
+  enabled = true
+  title = "Hi! I'm Raj Duggal"
+  subTitle = """
+<p style="font-size: larger;">👋 
+  I help <u><a href="/articles/but-im-not-a-software-developer">software building teams</a></u> deliver <u><a href="/articles/the-most-prized-software-features">the most prized software features</a></u> with the lowest <u><a href="/articles/managing-budget-risks">budget risks</a></u></p>
+"""
+  imageUrl = "/images/main.jpg"
+  imageTitle = "Raj Duggal"
+
+  [params.homeInfoParams]
+  Title = "Raj Duggal"
+  Content ="HOMEINFOPARAMSCCCCCCONTENTRRRRR"
+
+  [params.assets]
+  disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
