@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raj Duggal</title>
+    <link>https://RajDuggal.com/</link>
+    <description>Recent content on Raj Duggal</description>
+    <image>
+      <title>Raj Duggal</title>
+      <url>https://RajDuggal.com/images/papermod-cover.png</url>
+      <link>https://RajDuggal.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en</language>
+    <atom:link href="https://RajDuggal.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Raj</title>
+      <link>https://RajDuggal.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://RajDuggal.com/about/</guid>
+      <description>&lt;div class=&#34;profile&#34;&gt;
+    &lt;img style=&#34;border-radius: 50%&#34; draggable=&#34;false&#34; src=&#34;https://RajDuggal.com/images/main.jpg&#34; alt=&#34;Raj Duggal&#34; title=&#34;Raj Duggal&#34;
+            height=&#34;150&#34; width=&#34;150&#34; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The following information is provided as a cut-and-paste resource for conference organizers, media professionals, podcast hosts, and other interested parties.&lt;/p&gt;
+&lt;p&gt;Please feel free to use anything here as-is without checking with me first. If you have additional questions, you can email me directly.&lt;/p&gt;
+&lt;h3 id=&#34;jump-to&#34;&gt;Jump to&amp;hellip;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#short-bio&#34;&gt;Short Bio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#common-topics&#34;&gt;Common Topics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#sample-questions&#34;&gt;Sample Questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#random-facts&#34;&gt;Random Facts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h2&gt;
+&lt;p&gt;Raj Duggal is a highly experienced software development consultant who is on a mission to help teams align their processes and practices with the fundamentals of agile software development. He is the author of the Agile Missing Manual website, and writes a free daily email newsletter on how to build software using the agile approach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>https://RajDuggal.com/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://RajDuggal.com/articles/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;but-im-not-a-software-developer&#34;&gt;But I&amp;rsquo;m Not a Software Developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;managing-budget-risks&#34;&gt;Managing Budget Risks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;the-most-prized-software-features&#34;&gt;Identifying the Most Prized Software Features For Maximum Impact&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
