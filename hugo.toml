@@ -2,6 +2,8 @@ baseURL = 'https://RajDuggal.com/'
 languageCode = 'en-us'
 title = 'Raj Duggal'
 
+googleAnalytics = "G-9P7QF8G9XW"
+
 [module]
 [[module.imports]]
     path = 'github.com/adityatelange/hugo-PaperMod'
