@@ -52,7 +52,7 @@ This establishes a positive feedback loop, enhancing the team's effectiveness an
 ## The ways I can help...
 
 
-### 1/ My Mailing List
+### 1/ Agile Techies Mailing List
 Every weekday, I send a short, useful tidbit of information, inspiration, or insight
 to help folks like you find practical solutions to common challenges and improve your team's performance.
 You’ll get a ton of value delivered in small bite-sized chunks.
@@ -66,16 +66,11 @@ Whether you're a Scrum Master, developer, or product owner, these articles will 
 
 <span class="button profile" style="text-transform:uppercase;">__[AgileMissingManual.com](https://AgileMissingManual.com)__</span>
 
-### 3/ Coaching Call
-Are you facing a specific challenge and need expert advice? Book a coaching call now. I will provide tailored advice, troubleshoot specific challenges, or offer quick insights that directly address your current needs. Enabling your team to gain clarity and actionable solutions on-demand.
-
-<span class="button profile" style="text-transform:uppercase;">__[Book a Coaching Call](https://clarity.fm/rajduggal/precall/free)__</span>
-
-### 4/ Team Coaching
+### 3/ Advisory Retainer
 
 Hire me on a monthly retainer to provide your team with ongoing, hands-on guidance to continuously refine and enhance your agile practices. This means tailored support as challenges arise, proactive adjustments to keep your team aligned with business goals, and a steady focus on improving efficiency, collaboration, and delivery outcomes. With me on retainer, your team gains a trusted advisor committed to their success, enabling consistent growth and performance improvements over time.
 
-<span class="button profile" style="text-transform:uppercase;">__[rajesh@duggalmail.com](mailto:rajesh@duggalmail.com)__</span>
+<span class="button profile" style="text-transform:uppercase;">__[Advisory Retainer](/retainer)__</span>
 
 {{< profile_image >}}
 
