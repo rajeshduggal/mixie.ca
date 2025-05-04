@@ -40,5 +40,12 @@
       <guid>https://RajDuggal.com/articles/managing-budget-risks/</guid>
       <description>Leveraging Agile to Mitigate Budget Overruns and Maximize Business Value</description>
     </item>
+    <item>
+      <title>Stop Nesting All Your Components in your ReactJS Apps</title>
+      <link>https://RajDuggal.com/articles/stop-nesting-all-your-components-in-reactjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://RajDuggal.com/articles/stop-nesting-all-your-components-in-reactjs/</guid>
+      <description>In ReactJS it&amp;#39;s better to pass components as props rather than nesting everything. Here&amp;#39;s how to do it!</description>
+    </item>
   </channel>
 </rss>

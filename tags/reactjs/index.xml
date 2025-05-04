@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ReactJS on Raj Duggal</title>
+    <link>https://RajDuggal.com/tags/reactjs/</link>
+    <description>Recent content in ReactJS on Raj Duggal</description>
+    <image>
+      <title>Raj Duggal</title>
+      <url>https://RajDuggal.com/images/papermod-cover.png</url>
+      <link>https://RajDuggal.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <atom:link href="https://RajDuggal.com/tags/reactjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop Nesting All Your Components in your ReactJS Apps</title>
+      <link>https://RajDuggal.com/articles/stop-nesting-all-your-components-in-reactjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://RajDuggal.com/articles/stop-nesting-all-your-components-in-reactjs/</guid>
+      <description>In ReactJS it&amp;#39;s better to pass components as props rather than nesting everything. Here&amp;#39;s how to do it!</description>
+    </item>
+  </channel>
+</rss>
