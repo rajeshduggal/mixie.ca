@@ -1,8 +1,8 @@
-baseURL = 'https://RajDuggal.com/'
+baseURL = 'https://mixie.ca/'
 languageCode = 'en-us'
-title = 'Raj Duggal'
+title = 'Mixie'
 
-googleAnalytics = "G-9P7QF8G9XW"
+googleAnalytics = "G-C0TS5FNMW6"
 
 [module]
 [[module.imports]]
@@ -28,25 +28,32 @@ weight = 1
   [languages.en.taxonomies]
   tag = "tags"
 
-[[languages.en.menu.main]]
-name = "About"
-url = "about/"
-weight = 5
+  [[languages.en.menu.main]]
+  name = "Domains"
+  url = "domains"
 
-[[languages.en.menu.main]]
-name = "Articles"
-url = "articles/"
-weight = 5
+  [[languages.en.menu.main]]
+  name = "Agile Coaching"
+  url = "agile-coaching"
+
+  [[languages.en.menu.main]]
+  name = "Accessibility"
+  url = "accessibility"
+
+  [[languages.en.menu.main]]
+  name = "Development"
+  url = "development"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 env = "production"
-description = "Raj Duggal coaches software building teams on how to deliver the most prized software features with the lowest budget risks"
-author = "Raj Duggal"
+description = "Mixie is a software development agency that builds custom software for businesses."
+author = "Mixie"
 social = true
-defaultTheme = "auto"
+defaultTheme = "light"
+disableThemeToggle = true
 ShowShareButtons = false
 ShowReadingTime = false
 displayFullLangName = true
@@ -60,27 +67,8 @@ ShowToc = false
 images = [ "images/papermod-cover.png" ]
 hideMeta = true
 
-  [params.profileMode]
-  enabled = true
-  title = "Hi! I'm Raj Duggal"
-  subTitle = """
-<p style="font-size: larger;">👋 
-  I help <u><a href="/articles/but-im-not-a-software-developer">software building teams</a></u> deliver <u><a href="/articles/the-most-prized-software-features">the most prized software features</a></u> with the lowest <u><a href="/articles/managing-budget-risks">budget risks</a></u></p>
-"""
-  imageUrl = "/images/main.jpg"
-  imageTitle = "Raj Duggal"
-
-  [params.homeInfoParams]
-  Title = "Raj Duggal"
-  Content ="HOMEINFOPARAMSCCCCCCONTENTRRRRR"
-
   [params.assets]
   disableHLJS = true
-
-  [[params.socialIcons]]
-  name = "zcal"
-  title ="Schedule a meeting with Raj"
-  url ="https://zcal.co/rajduggal"
 
 [markup.goldmark.renderer]
 unsafe = true

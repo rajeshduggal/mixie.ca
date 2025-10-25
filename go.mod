@@ -1,4 +1,4 @@
-module github.com/rajeshduggal/agiletechies
+module github.com/rajeshduggal/mixie.ca
 
 go 1.22.0
 
