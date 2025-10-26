@@ -1,103 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Raj Duggal</title>
-    <link>https://RajDuggal.com/</link>
-    <description>Recent content on Raj Duggal</description>
+    <title>Mixie</title>
+    <link>https://mixie.ca/</link>
+    <description>Recent content on Mixie</description>
     <image>
-      <title>Raj Duggal</title>
-      <url>https://RajDuggal.com/images/papermod-cover.png</url>
-      <link>https://RajDuggal.com/images/papermod-cover.png</link>
+      <title>Mixie</title>
+      <url>https://mixie.ca/images/papermod-cover.png</url>
+      <link>https://mixie.ca/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.151.1</generator>
     <language>en</language>
-    <atom:link href="https://RajDuggal.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mixie.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Raj</title>
-      <link>https://RajDuggal.com/about/</link>
+      <title>Agile Software Development Team Coaching</title>
+      <link>https://mixie.ca/agile-coaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/about/</guid>
-      <description>&lt;div class=&#34;profile&#34;&gt;
-    &lt;img style=&#34;border-radius: 50%&#34; draggable=&#34;false&#34; src=&#34;https://RajDuggal.com/images/main.jpg&#34; alt=&#34;Raj Duggal&#34; title=&#34;Raj Duggal&#34;
-            height=&#34;150&#34; width=&#34;150&#34; /&gt;
-&lt;/div&gt;
+      <guid>https://mixie.ca/agile-coaching/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Help your software team embrace change, improve flow, and focus on delivering real value.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agile isn&amp;rsquo;t about sticking to a rigid process - it&amp;rsquo;s about embracing change. At Mixie, we help software teams and their stakeholders work together in a way that keeps the focus where it belongs: on delivering real value to end users.&lt;/p&gt;
+&lt;p&gt;Many teams rely heavily on tools like JIRA or Git and call it &amp;ldquo;Agile,&amp;ldquo;but true agility is a mindset. It&amp;rsquo;s about creating an environment where stakeholders can confidently shift priorities, and developers are ready to adapt - both technically and process-wise. That means having solid foundations like automated tests and version control, but also giving the team room to explore better solutions without pressure to hit arbitrary deadlines. Progress shouldn&amp;rsquo;t be measured by the number of features shipped, but by the impact those features make.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AODA Accessibility &amp; Document Remediation</title>
+      <link>https://mixie.ca/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mixie.ca/accessibility/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Digital accessibility isn&amp;rsquo;t just about compliance - it&amp;rsquo;s about making sure everyone can access and use your content, no matter their abilities.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Mixie, we help organizations ensure their websites and documents meet accessibility standards so they&amp;rsquo;re usable, inclusive, and legally compliant.&lt;/p&gt;
+&lt;p&gt;There are some fantastic tools out there that can catch many accessibility issues, and Mixie makes full use of them. But real accessibility goes beyond automation. To truly know if something is accessible, it needs to be tested and reviewed by a human - someone who can understand how a person with assistive technology actually experiences your site or document. That&amp;rsquo;s where Mixie comes in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom Software Development</title>
+      <link>https://mixie.ca/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mixie.ca/development/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Your business is unique. Your software should be too.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not every problem needs brand-new software - but when it does, it should be built with purpose. The Mixie team will help you find the most efficient path to the right solution. Sometimes that means discovering existing tools or platforms that already meet your needs. Other times, it means combining and customizing off-the-shelf systems with a bit of smart &amp;ldquo;glue&amp;rdquo; to connect everything together into a smooth, automated workflow. And in rare cases, it means designing and building a fully custom application from the ground up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Domain Name Branding &amp; Acquisition</title>
+      <link>https://mixie.ca/domains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mixie.ca/domains/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Great brands start with great names. Mixie helps you discover and acquire the domain that fits your vision.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The following information is provided as a cut-and-paste resource for conference organizers, media professionals, podcast hosts, and other interested parties.&lt;/p&gt;
-&lt;p&gt;Please feel free to use anything here as-is without checking with me first. If you have additional questions, you can email me directly.&lt;/p&gt;
-&lt;h3 id=&#34;jump-to&#34;&gt;Jump to&amp;hellip;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#short-bio&#34;&gt;Short Bio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#common-topics&#34;&gt;Common Topics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#sample-questions&#34;&gt;Sample Questions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#random-facts&#34;&gt;Random Facts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h2&gt;
-&lt;p&gt;Raj Duggal is a highly experienced software development consultant who is on a mission to help teams align their processes and practices with the fundamentals of agile software development. He is the author of the Agile Missing Manual website, and writes a free daily email newsletter on how to build software using the agile approach.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advisory Retainer</title>
-      <link>https://RajDuggal.com/retainer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/retainer/</guid>
-      <description>&lt;p&gt;An Advisory Retainer is a flexible consulting arrangement that gives you access to my strategic and tactical expertise on an ongoing basis. Rather than a one-time engagement, this service ensures continuous support, mentorship, and strategic guidance as your team&amp;rsquo;s Agile journey evolves.&lt;/p&gt;
-&lt;h2 id=&#34;who-is-this-for&#34;&gt;Who is This For?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Organizations transitioning to Agile that need expert support to navigate challenges.&lt;/li&gt;
-&lt;li&gt;Product Owners, Scrum Masters, and Agile teams looking to refine their practices.&lt;/li&gt;
-&lt;li&gt;Executives and leaders seeking Agile coaching and strategy alignment.&lt;/li&gt;
-&lt;li&gt;Development teams that need better workflow optimization and Agile best practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Consistent Expert Support – Access expert Agile coaching without the commitment of a full-time hire.&lt;/li&gt;
-&lt;li&gt;Flexible Engagement – Get guidance when you need it—weekly calls, Slack/Teams communication, or ad-hoc problem-solving sessions.&lt;/li&gt;
-&lt;li&gt;Tailored Solutions – Advice specific to your teams, projects, and Agile maturity.&lt;/li&gt;
-&lt;li&gt;Continuous Improvement – Regular assessments to ensure your Agile adoption is evolving.&lt;/li&gt;
-&lt;li&gt;Proactive Risk Management – Identify and address Agile roadblocks before they become major issues.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Initial Consultation – We discuss your needs and goals.&lt;/li&gt;
-&lt;li&gt;Customized Engagement Plan – We craft a tailored support structure for your team.&lt;/li&gt;
-&lt;li&gt;Ongoing Support – Regular touchpoints and on-demand assistance.&lt;/li&gt;
-&lt;li&gt;Continuous Feedback Loop – Periodic reviews to refine and enhance your Agile approach.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Our agreement entitles you to unlimited access to me via phone, email, and messaging. I respond to all messages no later than the next business day, though in practice, my response time is much quicker (especially during business hours, but also evenings and weekends when needed).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>But I&#39;m Not a Software Developer</title>
-      <link>https://RajDuggal.com/articles/but-im-not-a-software-developer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/articles/but-im-not-a-software-developer/</guid>
-      <description>&amp;#34;But I&amp;#39;m Not a Software Developer&amp;#34; - A Mindset Shift for Team Success</description>
-    </item>
-    <item>
-      <title>How to Run a Quick, Simple and Free, Web Accessibility Test Audit</title>
-      <link>https://RajDuggal.com/articles/free-web-accessibility-audit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/articles/free-web-accessibility-audit/</guid>
-      <description>You don&amp;#39;t need to download or install any special software. Both Chrome and the Edge browsers have a built-in web accessibility auditing tool, ready for you to use!</description>
-    </item>
-    <item>
-      <title>Identifying the Most Prized Software Features For Maximum Impact</title>
-      <link>https://RajDuggal.com/articles/the-most-prized-software-features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/articles/the-most-prized-software-features/</guid>
-      <description>How to Identify the Most Prized Software Features</description>
-    </item>
-    <item>
-      <title>Managing Budget Risks</title>
-      <link>https://RajDuggal.com/articles/managing-budget-risks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/articles/managing-budget-risks/</guid>
-      <description>Leveraging Agile to Mitigate Budget Overruns and Maximize Business Value</description>
-    </item>
-    <item>
-      <title>Stop Nesting All Your Components in your ReactJS Apps</title>
-      <link>https://RajDuggal.com/articles/stop-nesting-all-your-components-in-reactjs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://RajDuggal.com/articles/stop-nesting-all-your-components-in-reactjs/</guid>
-      <description>In ReactJS it&amp;#39;s better to pass components as props rather than nesting everything. Here&amp;#39;s how to do it!</description>
+
+&lt;style&gt;
+
+ 
+.collage {
+  --radius: 14px;
+  --shadow: 0 10px 30px rgba(0,0,0,.25), 0 2px 8px rgba(0,0,0,.15);
+  --shadow-dark: 0 10px 30px rgba(0,0,0,.45), 0 2px 8px rgba(0,0,0,.25);
+  --outline: 1px solid rgba(0,0,0,.08);
+
+  position: relative;
+  max-width: min(1100px, 92vw);
+  margin: 2rem auto;
+   
+  aspect-ratio: 16 / 9;
+}
+
+ 
+.collage .shot {
+  position: absolute;  
+  margin: 0;
+  border-radius: var(--radius);
+  overflow: hidden;  
+  box-shadow: var(--shadow);
+  outline: var(--outline);
+  background: #fff;
+  transition: transform .25s ease, box-shadow .25s ease;
+  will-change: transform;
+}
+
+.collage .shot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       
+  display: block;
+  background: #f3f4f6;     
+}
+
+ 
+.collage .shot:hover,
+.collage .shot:focus-within {
+  transform: translate3d(0,0,0) scale(1.02);
+  box-shadow: var(--shadow-dark);
+}
+
+ 
+ 
+@media (min-width: 0px) {
+  .collage { aspect-ratio: 21 / 9; }  
+
+  .collage .s1 { width: 34%; left: 8%;  top: 8%;  transform: rotate(-4deg); z-index: 5; }
+  .collage .s2 { width: 36%; left: 32%; top: 18%; transform: rotate(2deg);  z-index: 4; }
+  .collage .s3 { width: 30%; left: 58%; top: 6%;  transform: rotate(-2deg); z-index: 6; }
+  .collage .s4 { width: 33%; left: 18%; top: 46%; transform: rotate(-1deg); z-index: 3; }
+  .collage .s5 { width: 28%; left: 62%; top: 48%; transform: rotate(3deg);  z-index: 7; }
+}
+
+ 
+@media (prefers-color-scheme: dark) {
+  .collage .shot {
+    background: #0b0b0c;
+    outline-color: rgba(255,255,255,.07);
+  }
+}
+
+ 
+@media (prefers-reduced-motion: reduce) {
+  .collage .shot {
+    transition: none;
+  }
+}
+
+&lt;/style&gt;
+
+
+&lt;section class=&#34;collage&#34; aria-label=&#34;Domain industry website screenshots collage&#34;&gt;
+  &lt;figure class=&#34;shot s1&#34;&gt;
+    &lt;img src=&#34;image1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/figure&gt;
+  &lt;figure class=&#34;shot s2&#34;&gt;
+    &lt;img src=&#34;image2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/figure&gt;
+  &lt;figure class=&#34;shot s3&#34;&gt;
+    &lt;img src=&#34;image3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/figure&gt;
+  &lt;figure class=&#34;shot s4&#34;&gt;
+    &lt;img src=&#34;image4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/figure&gt;
+  &lt;figure class=&#34;shot s5&#34;&gt;
+    &lt;img src=&#34;image5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Your domain name is often the first impression your audience has of your brand - it&amp;rsquo;s worth getting right. At Mixie, we help you find, evaluate, and secure the perfect domain name for your business, project, or investment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
