@@ -18,7 +18,10 @@ Whether you need a smarter workflow, a more inclusive digital presence, or the p
 * [Domain Name Branding & Acquisition]({{<ref "domains/">}}) - _Find and secure the right domain for your brand - even if it's already taken._
 
 * [Agile Software Development Team Coaching]({{<ref "agile-coaching/">}}) - _Help your team embrace change, improve flow, and focus on delivering real value - not just more features_
+Scrum Beyond Software Development
+
+## Some of the clients we've helped grow
+{{< client-logos >}}
 
 ## Ready to get started?
-
 Contact us today to setup a phone call: success@mixie.ca
